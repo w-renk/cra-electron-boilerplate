@@ -1,5 +1,5 @@
 {
-  "name": "project-name",
+  "name": "changeme",
   "author": "changeme",
   "description": "changeme",
   "version": "0.1.0",
@@ -24,7 +24,7 @@
     "package": "node_modules/.bin/electron-builder -c.extraMetadata.main=build/electron.js"
   },
   "build": {
-    "appId": "app.id.changeme",
+    "appId": "com.change.me",
     "files": [
       "build/**/*",
       "node_modules/**/*"
